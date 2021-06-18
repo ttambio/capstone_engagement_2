@@ -6,3 +6,19 @@ Create new alerts in Kibana and confirm the configuration is working as expected
 
 NOTE:  The creation and presentation of the PowerPoint document was a group effort.
 
+
+Tools and techniques used:
+
+  - Microsoft Azure Lab Services
+    - Kali Linux
+  - Web browser
+  - nmap
+  - wpscan
+  - 'John the Ripper'
+  - ssh
+  - MySQL
+  - Python
+  - Kibana
+    - Filebeat
+    - Metricbeat
+  - Wireshark
